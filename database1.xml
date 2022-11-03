@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <userlogin>
+    <username>maram</username>
+    <password>123456</password>
+  </userlogin>
+</DataSet1>
